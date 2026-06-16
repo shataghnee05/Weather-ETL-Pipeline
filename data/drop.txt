@@ -1,0 +1,1 @@
+data,generationtime_ms,utc_offset_seconds,timezone,current_units.time,current_units.interval,current_units.temperature_2m,current_units.wind_speed_10m,current_units.relative_humidity_2m,current_units.visibility,current_units.weather_code,current.time,current.interval,reason,error

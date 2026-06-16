@@ -1,0 +1,3983 @@
+[
+  {
+    "city": "Delhi",
+    "latitude": 28.66,
+    "longitude": 77.23,
+    "data": {
+      "latitude": 28.646748,
+      "longitude": 77.2748,
+      "generationtime_ms": 572.3191499710083,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 218.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 32.9,
+        "wind_speed_10m": 6.3,
+        "relative_humidity_2m": 43,
+        "visibility": 12260.0,
+        "weather_code": 0
+      }
+    },
+    "extraction_time": "09:30:12.755019"
+  },
+  {
+    "city": "Mumbai",
+    "latitude": 19.0758,
+    "longitude": 72.8775,
+    "data": {
+      "latitude": 19.086115,
+      "longitude": 72.85291,
+      "generationtime_ms": 1516.8993473052979,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 6.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 30.3,
+        "wind_speed_10m": 12.2,
+        "relative_humidity_2m": 70,
+        "visibility": 8640.0,
+        "weather_code": 51
+      }
+    },
+    "extraction_time": "09:30:11.356467"
+  },
+  {
+    "city": "Kolk\u0101ta",
+    "latitude": 22.5675,
+    "longitude": 88.37,
+    "data": {
+      "latitude": 22.601053,
+      "longitude": 88.41122,
+      "generationtime_ms": 527.4275541305542,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 11.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 32.2,
+        "wind_speed_10m": 1.5,
+        "relative_humidity_2m": 66,
+        "visibility": 10460.0,
+        "weather_code": 0
+      }
+    },
+    "extraction_time": "09:30:13.337607"
+  },
+  {
+    "city": "Chennai",
+    "latitude": 13.0825,
+    "longitude": 80.275,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.821262"
+  },
+  {
+    "city": "Hyder\u0101b\u0101d",
+    "latitude": 17.3617,
+    "longitude": 78.4747,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.826060"
+  },
+  {
+    "city": "Bangalore",
+    "latitude": 12.9791,
+    "longitude": 77.5913,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.819502"
+  },
+  {
+    "city": "Pune",
+    "latitude": 18.5211,
+    "longitude": 73.8553,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.824793"
+  },
+  {
+    "city": "Ahmedabad",
+    "latitude": 23.0219,
+    "longitude": 72.5797,
+    "data": {
+      "latitude": 23.022846,
+      "longitude": 72.60188,
+      "generationtime_ms": 1045.477032661438,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 52.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 32.8,
+        "wind_speed_10m": 14.3,
+        "relative_humidity_2m": 53,
+        "visibility": 25920.0,
+        "weather_code": 2
+      }
+    },
+    "extraction_time": "09:30:08.266519"
+  },
+  {
+    "city": "S\u016brat",
+    "latitude": 21.205,
+    "longitude": 72.84,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.810876"
+  },
+  {
+    "city": "Prayagraj",
+    "latitude": 25.45,
+    "longitude": 81.85,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.811546"
+  },
+  {
+    "city": "Kanpur",
+    "latitude": 26.4725,
+    "longitude": 80.3311,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.827135"
+  },
+  {
+    "city": "Bel\u0101hi",
+    "latitude": 25.7167,
+    "longitude": 86.4,
+    "data": {
+      "latitude": 25.694199,
+      "longitude": 86.376495,
+      "generationtime_ms": 670.0881719589233,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 39.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 32.8,
+        "wind_speed_10m": 6.2,
+        "relative_humidity_2m": 65,
+        "visibility": 12800.0,
+        "weather_code": 0
+      }
+    },
+    "extraction_time": "09:30:12.107689"
+  },
+  {
+    "city": "Vadodara",
+    "latitude": 22.3,
+    "longitude": 73.2,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.823481"
+  },
+  {
+    "city": "N\u0101damp\u0101laiyam",
+    "latitude": 11.1793,
+    "longitude": 77.376,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.938254"
+  },
+  {
+    "city": "Lucknow",
+    "latitude": 26.847,
+    "longitude": 80.947,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.822957"
+  },
+  {
+    "city": "Kannankulam",
+    "latitude": 10.4799,
+    "longitude": 76.1131,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.969233"
+  },
+  {
+    "city": "Mahu\u0101kher\u0101ganj",
+    "latitude": 29.13,
+    "longitude": 78.95,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.970537"
+  },
+  {
+    "city": "Nagla",
+    "latitude": 29.01,
+    "longitude": 79.51,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.981510"
+  },
+  {
+    "city": "Jaipur",
+    "latitude": 26.915,
+    "longitude": 75.82,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.980323"
+  },
+  {
+    "city": "Kott\u0101rassh\u0113ri",
+    "latitude": 10.6167,
+    "longitude": 76.5333,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.987168"
+  },
+  {
+    "city": "Gorakhpur",
+    "latitude": 26.7611,
+    "longitude": 83.3667,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.985556"
+  },
+  {
+    "city": "N\u0101gpur",
+    "latitude": 21.1497,
+    "longitude": 79.0806,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:04.991268"
+  },
+  {
+    "city": "Guw\u0101h\u0101ti",
+    "latitude": 26.1806,
+    "longitude": 91.7502,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.992135"
+  },
+  {
+    "city": "Gh\u0101zi\u0101b\u0101d",
+    "latitude": 28.6667,
+    "longitude": 77.4167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:04.994736"
+  },
+  {
+    "city": "Coimbatore",
+    "latitude": 11.0008,
+    "longitude": 76.9633,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.494699"
+  },
+  {
+    "city": "Patna",
+    "latitude": 25.61,
+    "longitude": 85.1414,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.127860"
+  },
+  {
+    "city": "R\u0101jkot",
+    "latitude": 22.2969,
+    "longitude": 70.7984,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.131956"
+  },
+  {
+    "city": "Vish\u0101khapatnam",
+    "latitude": 17.6939,
+    "longitude": 83.2922,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.143935"
+  },
+  {
+    "city": "Indore",
+    "latitude": 22.7186,
+    "longitude": 75.855,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.142891"
+  },
+  {
+    "city": "Abhepur",
+    "latitude": 30.6667,
+    "longitude": 76.8333,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.154915"
+  },
+  {
+    "city": "Gum\u0101nw\u0101la",
+    "latitude": 29.9333,
+    "longitude": 77.9,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.158052"
+  },
+  {
+    "city": "Th\u0101ne",
+    "latitude": 19.18,
+    "longitude": 72.9633,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.153348"
+  },
+  {
+    "city": "Bhop\u0101l",
+    "latitude": 23.25,
+    "longitude": 77.4167,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.156483"
+  },
+  {
+    "city": "\u0100gra",
+    "latitude": 27.18,
+    "longitude": 78.02,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.159504"
+  },
+  {
+    "city": "Peyanvilai",
+    "latitude": 8.5674,
+    "longitude": 78.1046,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.410565"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "latitude": 18.6278,
+    "longitude": 73.8131,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.416953"
+  },
+  {
+    "city": "Saundhonw\u0101li",
+    "latitude": 30.3331,
+    "longitude": 77.9608,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.304891"
+  },
+  {
+    "city": "Ludhi\u0101na",
+    "latitude": 30.9083,
+    "longitude": 75.8486,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.302962"
+  },
+  {
+    "city": "Meerut",
+    "latitude": 28.98,
+    "longitude": 77.7064,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.312836"
+  },
+  {
+    "city": "Madurai",
+    "latitude": 9.9197,
+    "longitude": 78.1194,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.401865"
+  },
+  {
+    "city": "Jamshedpur",
+    "latitude": 22.8,
+    "longitude": 86.1833,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.319438"
+  },
+  {
+    "city": "N\u0101sik",
+    "latitude": 20.0,
+    "longitude": 73.7833,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.403518"
+  },
+  {
+    "city": "Far\u012bd\u0101b\u0101d",
+    "latitude": 28.4167,
+    "longitude": 77.3,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.321322"
+  },
+  {
+    "city": "Mad\u0101rpur",
+    "latitude": 26.227,
+    "longitude": 84.6746,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.461579"
+  },
+  {
+    "city": "Najafgarh",
+    "latitude": 28.6125,
+    "longitude": 76.9847,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.462827"
+  },
+  {
+    "city": "Jabalpur",
+    "latitude": 23.1667,
+    "longitude": 79.9333,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.473975"
+  },
+  {
+    "city": "Madanpur",
+    "latitude": 29.326,
+    "longitude": 79.1537,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.481721"
+  },
+  {
+    "city": "Kamalwaganja Gaur",
+    "latitude": 29.2117,
+    "longitude": 79.4654,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.483741"
+  },
+  {
+    "city": "Kaly\u0101n",
+    "latitude": 19.25,
+    "longitude": 73.15,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.563460"
+  },
+  {
+    "city": "\u0100sansol",
+    "latitude": 23.6833,
+    "longitude": 86.9667,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.562925"
+  },
+  {
+    "city": "Vijayav\u0101da",
+    "latitude": 16.5167,
+    "longitude": 80.6167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.567761"
+  },
+  {
+    "city": "Vasai-Virar",
+    "latitude": 19.47,
+    "longitude": 72.8,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.574429"
+  },
+  {
+    "city": "V\u0101r\u0101nasi",
+    "latitude": 25.3189,
+    "longitude": 83.0128,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.620668"
+  },
+  {
+    "city": "Kalleli",
+    "latitude": 9.2,
+    "longitude": 76.8833,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.620111"
+  },
+  {
+    "city": "Sr\u012bnagar",
+    "latitude": 34.0911,
+    "longitude": 74.8061,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.634673"
+  },
+  {
+    "city": "Aurang\u0101b\u0101d",
+    "latitude": 19.88,
+    "longitude": 75.32,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.644450"
+  },
+  {
+    "city": "Dhanb\u0101d",
+    "latitude": 23.7928,
+    "longitude": 86.435,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.646563"
+  },
+  {
+    "city": "Amritsar",
+    "latitude": 31.6269,
+    "longitude": 74.877,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.648535"
+  },
+  {
+    "city": "H\u0101ora",
+    "latitude": 22.58,
+    "longitude": 88.3294,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.725440"
+  },
+  {
+    "city": "R\u0101nchi",
+    "latitude": 23.3556,
+    "longitude": 85.3347,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.722806"
+  },
+  {
+    "city": "Gwalior",
+    "latitude": 26.2125,
+    "longitude": 78.1775,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.728083"
+  },
+  {
+    "city": "Chand\u012bgarh",
+    "latitude": 30.7364,
+    "longitude": 76.7883,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.733764"
+  },
+  {
+    "city": "Jodhpur",
+    "latitude": 26.2944,
+    "longitude": 73.0278,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.779851"
+  },
+  {
+    "city": "Raipur",
+    "latitude": 21.2379,
+    "longitude": 81.6337,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.782243"
+  },
+  {
+    "city": "Warangal",
+    "latitude": 17.9756,
+    "longitude": 79.6011,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.795726"
+  },
+  {
+    "city": "Kota",
+    "latitude": 25.18,
+    "longitude": 75.83,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.807945"
+  },
+  {
+    "city": "Bareilly",
+    "latitude": 28.364,
+    "longitude": 79.415,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.811639"
+  },
+  {
+    "city": "Trichinopoly",
+    "latitude": 10.8269,
+    "longitude": 78.6928,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.801392"
+  },
+  {
+    "city": "Bhayandar",
+    "latitude": 19.3,
+    "longitude": 72.85,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.884181"
+  },
+  {
+    "city": "Narela",
+    "latitude": 28.85,
+    "longitude": 77.1,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.887002"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "latitude": 8.4875,
+    "longitude": 76.9525,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.887754"
+  },
+  {
+    "city": "Sah\u0101ranpur",
+    "latitude": 29.964,
+    "longitude": 77.546,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.891040"
+  },
+  {
+    "city": "\u0100vadi",
+    "latitude": 13.1147,
+    "longitude": 80.1098,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.940059"
+  },
+  {
+    "city": "Salem",
+    "latitude": 11.65,
+    "longitude": 78.1667,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.943166"
+  },
+  {
+    "city": "Kochi",
+    "latitude": 9.9667,
+    "longitude": 76.2833,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.958064"
+  },
+  {
+    "city": "Gunt\u016br",
+    "latitude": 16.3,
+    "longitude": 80.45,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.955283"
+  },
+  {
+    "city": "Mangalore",
+    "latitude": 12.8717,
+    "longitude": 74.8425,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:05.971681"
+  },
+  {
+    "city": "Calicut",
+    "latitude": 11.2478,
+    "longitude": 75.7803,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:05.973956"
+  },
+  {
+    "city": "Raurkela",
+    "latitude": 22.2492,
+    "longitude": 84.8828,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.044861"
+  },
+  {
+    "city": "Nellore",
+    "latitude": 14.4333,
+    "longitude": 79.9667,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.048670"
+  },
+  {
+    "city": "Agartala",
+    "latitude": 23.8333,
+    "longitude": 91.2667,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.046982"
+  },
+  {
+    "city": "Ulh\u0101snagar",
+    "latitude": 19.2167,
+    "longitude": 73.15,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.050451"
+  },
+  {
+    "city": "Gaya",
+    "latitude": 24.75,
+    "longitude": 85.0167,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.100954"
+  },
+  {
+    "city": "Ambatt\u016br",
+    "latitude": 13.0983,
+    "longitude": 80.1622,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.103564"
+  },
+  {
+    "city": "Salt Lake City",
+    "latitude": 22.61,
+    "longitude": 88.4,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.109383"
+  },
+  {
+    "city": "Quilon",
+    "latitude": 8.8853,
+    "longitude": 76.5864,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.120350"
+  },
+  {
+    "city": "Mulangodi",
+    "latitude": 9.0,
+    "longitude": 76.6167,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.134991"
+  },
+  {
+    "city": "Bh\u0101tp\u0101ra",
+    "latitude": 22.8664,
+    "longitude": 88.4011,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.137230"
+  },
+  {
+    "city": "K\u0101kin\u0101da",
+    "latitude": 16.9333,
+    "longitude": 82.2167,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.205308"
+  },
+  {
+    "city": "Brahmapur",
+    "latitude": 19.32,
+    "longitude": 84.78,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.204277"
+  },
+  {
+    "city": "R\u0101jahmundry",
+    "latitude": 16.9833,
+    "longitude": 81.7833,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.208848"
+  },
+  {
+    "city": "Muzaffarpur",
+    "latitude": 26.12,
+    "longitude": 85.3833,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.210308"
+  },
+  {
+    "city": "Trich\u016br",
+    "latitude": 10.52,
+    "longitude": 76.21,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.260206"
+  },
+  {
+    "city": "Kulti",
+    "latitude": 23.73,
+    "longitude": 86.8399,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.261810"
+  },
+  {
+    "city": "Oulgaret",
+    "latitude": 11.957,
+    "longitude": 79.7737,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.262165"
+  },
+  {
+    "city": "Yelahanka",
+    "latitude": 13.1139,
+    "longitude": 77.5983,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.283091"
+  },
+  {
+    "city": "Bih\u0101r",
+    "latitude": 25.2,
+    "longitude": 85.52,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.298726"
+  },
+  {
+    "city": "Darbhanga",
+    "latitude": 26.157,
+    "longitude": 85.8995,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.300877"
+  },
+  {
+    "city": "Sonpur",
+    "latitude": 25.6934,
+    "longitude": 85.1718,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.362737"
+  },
+  {
+    "city": "Chunchura",
+    "latitude": 22.8956,
+    "longitude": 88.4025,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.366380"
+  },
+  {
+    "city": "Imph\u0101l",
+    "latitude": 24.82,
+    "longitude": 93.95,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.369020"
+  },
+  {
+    "city": "Arrah",
+    "latitude": 25.5631,
+    "longitude": 84.6711,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.367838"
+  },
+  {
+    "city": "Kollaka",
+    "latitude": 9.2547,
+    "longitude": 76.5883,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.419373"
+  },
+  {
+    "city": "Amarn\u0101th",
+    "latitude": 19.209,
+    "longitude": 73.186,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.420900"
+  },
+  {
+    "city": "New Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.2089,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.835546"
+  },
+  {
+    "city": "Tiruvottiy\u016br",
+    "latitude": 13.1667,
+    "longitude": 80.3,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.445566"
+  },
+  {
+    "city": "Puducherry",
+    "latitude": 11.93,
+    "longitude": 79.83,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.462084"
+  },
+  {
+    "city": "Alleppey",
+    "latitude": 9.4978,
+    "longitude": 76.3286,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.464029"
+  },
+  {
+    "city": "Katih\u0101r",
+    "latitude": 25.5385,
+    "longitude": 87.5704,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.521326"
+  },
+  {
+    "city": "Alw\u0101l",
+    "latitude": 17.503,
+    "longitude": 78.507,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.524568"
+  },
+  {
+    "city": "W\u0101pi",
+    "latitude": 20.3667,
+    "longitude": 72.9,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.526234"
+  },
+  {
+    "city": "Pall\u0101varam",
+    "latitude": 12.9677,
+    "longitude": 80.1581,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.529629"
+  },
+  {
+    "city": "Secunder\u0101b\u0101d",
+    "latitude": 17.45,
+    "longitude": 78.5,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.577227"
+  },
+  {
+    "city": "Monghyr",
+    "latitude": 25.381,
+    "longitude": 86.465,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.579025"
+  },
+  {
+    "city": "Ch\u0101pra",
+    "latitude": 25.7808,
+    "longitude": 84.7308,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.605464"
+  },
+  {
+    "city": "Shimla",
+    "latitude": 31.1033,
+    "longitude": 77.1722,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.625758"
+  },
+  {
+    "city": "N\u0101ngloi J\u0101t",
+    "latitude": 28.6833,
+    "longitude": 77.0667,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.626456"
+  },
+  {
+    "city": "Puri",
+    "latitude": 19.8,
+    "longitude": 85.8167,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.678944"
+  },
+  {
+    "city": "Nandy\u0101l",
+    "latitude": 15.48,
+    "longitude": 78.48,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.682729"
+  },
+  {
+    "city": "Baharampur",
+    "latitude": 24.1,
+    "longitude": 88.25,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.684092"
+  },
+  {
+    "city": "Mahb\u016bbnagar",
+    "latitude": 16.7333,
+    "longitude": 77.9833,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.688703"
+  },
+  {
+    "city": "Murtaz\u0101b\u0101d",
+    "latitude": 28.7111,
+    "longitude": 77.2688,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.737099"
+  },
+  {
+    "city": "R\u0101iganj",
+    "latitude": 25.6167,
+    "longitude": 88.1167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.739276"
+  },
+  {
+    "city": "Dinapore",
+    "latitude": 25.6333,
+    "longitude": 85.05,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.767526"
+  },
+  {
+    "city": "Tambaram",
+    "latitude": 12.831,
+    "longitude": 80.0459,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.788795"
+  },
+  {
+    "city": "Shr\u012br\u0101mpur",
+    "latitude": 22.75,
+    "longitude": 88.34,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.790171"
+  },
+  {
+    "city": "Hugli",
+    "latitude": 22.9089,
+    "longitude": 88.3967,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.837300"
+  },
+  {
+    "city": "Chandannagar",
+    "latitude": 22.8671,
+    "longitude": 88.3674,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.842909"
+  },
+  {
+    "city": "Sult\u0101npur Mazra",
+    "latitude": 28.6906,
+    "longitude": 77.0778,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.844466"
+  },
+  {
+    "city": "Saharsa",
+    "latitude": 25.88,
+    "longitude": 86.6,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.849588"
+  },
+  {
+    "city": "Krishnanagar",
+    "latitude": 23.4,
+    "longitude": 88.5,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.895664"
+  },
+  {
+    "city": "B\u0101r\u0101kpur",
+    "latitude": 22.7642,
+    "longitude": 88.3776,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.897666"
+  },
+  {
+    "city": "Bh\u0101lswa Jahangirpur",
+    "latitude": 28.7354,
+    "longitude": 77.1638,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.928660"
+  },
+  {
+    "city": "H\u0101j\u012bpur",
+    "latitude": 25.68,
+    "longitude": 85.22,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:06.950933"
+  },
+  {
+    "city": "Malk\u0101jgiri",
+    "latitude": 17.4483,
+    "longitude": 78.5292,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.952906"
+  },
+  {
+    "city": "Dehri",
+    "latitude": 24.87,
+    "longitude": 84.18,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.987540"
+  },
+  {
+    "city": "Dal\u016bpura",
+    "latitude": 28.6067,
+    "longitude": 77.3189,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:06.994387"
+  },
+  {
+    "city": "Mandoli",
+    "latitude": 28.7075,
+    "longitude": 77.3003,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.003706"
+  },
+  {
+    "city": "Balasore",
+    "latitude": 21.5033,
+    "longitude": 86.925,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.004667"
+  },
+  {
+    "city": "Barip\u0101da",
+    "latitude": 21.935,
+    "longitude": 86.7214,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.008852"
+  },
+  {
+    "city": "Tit\u0101garh",
+    "latitude": 22.74,
+    "longitude": 88.37,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.054852"
+  },
+  {
+    "city": "Dam Dam",
+    "latitude": 22.637,
+    "longitude": 88.4121,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.056895"
+  },
+  {
+    "city": "Kali\u0101npur",
+    "latitude": 26.5191,
+    "longitude": 80.2498,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.089547"
+  },
+  {
+    "city": "Delhi Cantonment",
+    "latitude": 28.5903,
+    "longitude": 77.1319,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.114478"
+  },
+  {
+    "city": "Khardah",
+    "latitude": 22.72,
+    "longitude": 88.38,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.116933"
+  },
+  {
+    "city": "S\u012bt\u0101marhi",
+    "latitude": 26.6,
+    "longitude": 85.48,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.140057"
+  },
+  {
+    "city": "Jam\u0101lpur",
+    "latitude": 25.3,
+    "longitude": 86.5,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.152656"
+  },
+  {
+    "city": "B\u0101nsb\u0101ria",
+    "latitude": 22.97,
+    "longitude": 88.4,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.165902"
+  },
+  {
+    "city": "Kalyani",
+    "latitude": 22.975,
+    "longitude": 88.4344,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.163609"
+  },
+  {
+    "city": "Dhuli\u0101n",
+    "latitude": 24.68,
+    "longitude": 87.97,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.168984"
+  },
+  {
+    "city": "Tripunittura",
+    "latitude": 9.9487,
+    "longitude": 76.3464,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.212798"
+  },
+  {
+    "city": "P\u0101lakollu",
+    "latitude": 16.516,
+    "longitude": 81.723,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.214343"
+  },
+  {
+    "city": "Br\u0101jar\u0101jnagar",
+    "latitude": 21.82,
+    "longitude": 83.92,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.252323"
+  },
+  {
+    "city": "Tanuku",
+    "latitude": 16.75,
+    "longitude": 81.7,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.278236"
+  },
+  {
+    "city": "Baj Baj",
+    "latitude": 22.4737,
+    "longitude": 88.1739,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.280467"
+  },
+  {
+    "city": "Kodungall\u016br",
+    "latitude": 10.22,
+    "longitude": 76.22,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.293347"
+  },
+  {
+    "city": "Kalamasseri",
+    "latitude": 10.0614,
+    "longitude": 76.3263,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.309856"
+  },
+  {
+    "city": "Siuri",
+    "latitude": 23.9167,
+    "longitude": 87.5333,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.323168"
+  },
+  {
+    "city": "Taml\u016bk",
+    "latitude": 22.3,
+    "longitude": 87.9167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.325845"
+  },
+  {
+    "city": "Poonamallee",
+    "latitude": 13.0465,
+    "longitude": 80.11,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.328384"
+  },
+  {
+    "city": "Mandapeta",
+    "latitude": 16.87,
+    "longitude": 81.93,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.372141"
+  },
+  {
+    "city": "B\u0101ruipur",
+    "latitude": 22.3607,
+    "longitude": 88.4323,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.374818"
+  },
+  {
+    "city": "Tirupparangunram",
+    "latitude": 9.8815,
+    "longitude": 78.0731,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.414570"
+  },
+  {
+    "city": "Karun\u0101gapalli",
+    "latitude": 9.0539,
+    "longitude": 76.5261,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.440719"
+  },
+  {
+    "city": "Gob\u0101rd\u0101nga",
+    "latitude": 22.87,
+    "longitude": 88.76,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.444841"
+  },
+  {
+    "city": "Dam\u0101n",
+    "latitude": 20.4169,
+    "longitude": 72.834,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.446951"
+  },
+  {
+    "city": "R\u0101machandrapuram",
+    "latitude": 16.85,
+    "longitude": 82.02,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.468863"
+  },
+  {
+    "city": "Varkkallai",
+    "latitude": 8.7331,
+    "longitude": 76.7169,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.483369"
+  },
+  {
+    "city": "Diamond Harbour",
+    "latitude": 22.1927,
+    "longitude": 88.1895,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.485819"
+  },
+  {
+    "city": "Kendr\u0101parha",
+    "latitude": 20.5,
+    "longitude": 86.4167,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.487524"
+  },
+  {
+    "city": "Mayyan\u0101d",
+    "latitude": 8.8389,
+    "longitude": 76.6467,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.533665"
+  },
+  {
+    "city": "Pujali",
+    "latitude": 22.4601,
+    "longitude": 88.134,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.535802"
+  },
+  {
+    "city": "S\u0101nkr\u0101il",
+    "latitude": 22.57,
+    "longitude": 88.24,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.574742"
+  },
+  {
+    "city": "Kantai",
+    "latitude": 26.2142,
+    "longitude": 85.2975,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.602763"
+  },
+  {
+    "city": "N\u0101sriganj",
+    "latitude": 25.05,
+    "longitude": 84.3333,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.606815"
+  },
+  {
+    "city": "Elangunnapuzha",
+    "latitude": 10.0167,
+    "longitude": 76.2167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.599808"
+  },
+  {
+    "city": "Krishn\u0101puram",
+    "latitude": 9.15,
+    "longitude": 76.5,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.626429"
+  },
+  {
+    "city": "M\u0101mid\u0101lap\u0101du",
+    "latitude": 15.831,
+    "longitude": 78.05,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.641218"
+  },
+  {
+    "city": "Dalsingh Sarai",
+    "latitude": 25.668,
+    "longitude": 85.8364,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.645222"
+  },
+  {
+    "city": "P\u0101nchla",
+    "latitude": 22.54,
+    "longitude": 88.14,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.647952"
+  },
+  {
+    "city": "Koelw\u0101r",
+    "latitude": 25.5805,
+    "longitude": 84.7975,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.693334"
+  },
+  {
+    "city": "B\u0101runi",
+    "latitude": 25.4751,
+    "longitude": 85.9681,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.695704"
+  },
+  {
+    "city": "Jaynagar-Majilpur",
+    "latitude": 22.1752,
+    "longitude": 88.4201,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.735449"
+  },
+  {
+    "city": "Panmana",
+    "latitude": 8.9333,
+    "longitude": 76.6167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.753890"
+  },
+  {
+    "city": "S\u0101hibpur Kam\u0101l",
+    "latitude": 25.4167,
+    "longitude": 86.3901,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.766407"
+  },
+  {
+    "city": "Edavanakad",
+    "latitude": 10.015,
+    "longitude": 76.22,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.770460"
+  },
+  {
+    "city": "Mah\u0101r\u0101jgani",
+    "latitude": 26.1075,
+    "longitude": 84.5025,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.785262"
+  },
+  {
+    "city": "Sundararaopeta",
+    "latitude": 16.8031,
+    "longitude": 81.6419,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.801218"
+  },
+  {
+    "city": "Madappalli",
+    "latitude": 9.0833,
+    "longitude": 76.5333,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.805436"
+  },
+  {
+    "city": "Alwaye",
+    "latitude": 10.1167,
+    "longitude": 76.35,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.807606"
+  },
+  {
+    "city": "K\u0101nke",
+    "latitude": 23.4348,
+    "longitude": 85.3206,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.854312"
+  },
+  {
+    "city": "R\u0101ja P\u0101kar",
+    "latitude": 25.735,
+    "longitude": 85.3376,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.856318"
+  },
+  {
+    "city": "Palliman",
+    "latitude": 8.9,
+    "longitude": 76.7139,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.895653"
+  },
+  {
+    "city": "Kandakkadava",
+    "latitude": 9.7,
+    "longitude": 76.3,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.905762"
+  },
+  {
+    "city": "Soh\u0101na",
+    "latitude": 30.6833,
+    "longitude": 76.7,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.930962"
+  },
+  {
+    "city": "Khizrpur",
+    "latitude": 30.5843,
+    "longitude": 76.7572,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.934937"
+  },
+  {
+    "city": "Mahisi",
+    "latitude": 25.854,
+    "longitude": 86.469,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:07.943655"
+  },
+  {
+    "city": "M\u0101njha",
+    "latitude": 26.4061,
+    "longitude": 84.5002,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.959258"
+  },
+  {
+    "city": "Perunturuttu",
+    "latitude": 9.6333,
+    "longitude": 76.5667,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.965101"
+  },
+  {
+    "city": "Dumjor",
+    "latitude": 22.64,
+    "longitude": 88.22,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:07.966585"
+  },
+  {
+    "city": "Ulao",
+    "latitude": 25.4165,
+    "longitude": 86.0936,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.014286"
+  },
+  {
+    "city": "Vandal\u016br",
+    "latitude": 12.8924,
+    "longitude": 80.0808,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.016817"
+  },
+  {
+    "city": "Lakhnaur",
+    "latitude": 26.202,
+    "longitude": 86.309,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.056690"
+  },
+  {
+    "city": "Cherakara",
+    "latitude": 8.9,
+    "longitude": 76.5833,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.058114"
+  },
+  {
+    "city": "Maj\u012btha",
+    "latitude": 31.7571,
+    "longitude": 74.9589,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.095956"
+  },
+  {
+    "city": "Usm\u0101npur",
+    "latitude": 24.7367,
+    "longitude": 87.8676,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.098441"
+  },
+  {
+    "city": "Khusropur",
+    "latitude": 25.4817,
+    "longitude": 85.3849,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.101045"
+  },
+  {
+    "city": "Billap\u0101du",
+    "latitude": 16.6356,
+    "longitude": 80.9715,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.116538"
+  },
+  {
+    "city": "Tillor Khurd",
+    "latitude": 22.617,
+    "longitude": 75.948,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.124893"
+  },
+  {
+    "city": "Garhpura",
+    "latitude": 25.6638,
+    "longitude": 86.1818,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.127891"
+  },
+  {
+    "city": "Jamira",
+    "latitude": 25.5535,
+    "longitude": 84.7063,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.175473"
+  },
+  {
+    "city": "Ayodhy\u0101pattanam",
+    "latitude": 11.6755,
+    "longitude": 78.2409,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.178137"
+  },
+  {
+    "city": "Neykk\u0101rappatti",
+    "latitude": 11.6225,
+    "longitude": 78.1058,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.217878"
+  },
+  {
+    "city": "Bakht\u0101warpur",
+    "latitude": 28.8233,
+    "longitude": 77.1717,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.567571"
+  },
+  {
+    "city": "Pullut",
+    "latitude": 10.3444,
+    "longitude": 76.2333,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.260877"
+  },
+  {
+    "city": "Desri",
+    "latitude": 25.6691,
+    "longitude": 85.4082,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.262561"
+  },
+  {
+    "city": "Mugalivakkam",
+    "latitude": 13.0205,
+    "longitude": 80.1653,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.258826"
+  },
+  {
+    "city": "Kh\u0101npur",
+    "latitude": 25.8572,
+    "longitude": 85.933,
+    "data": {
+      "latitude": 25.834797,
+      "longitude": 85.976006,
+      "generationtime_ms": 539.9792194366455,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 47.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 32.5,
+        "wind_speed_10m": 6.5,
+        "relative_humidity_2m": 67,
+        "visibility": 12660.0,
+        "weather_code": 0
+      }
+    },
+    "extraction_time": "09:30:13.338794"
+  },
+  {
+    "city": "P\u0101kkam",
+    "latitude": 13.1436,
+    "longitude": 80.028,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.285690"
+  },
+  {
+    "city": "Kavaratti",
+    "latitude": 10.5667,
+    "longitude": 72.6167,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.288448"
+  },
+  {
+    "city": "Manappakkam",
+    "latitude": 13.0108,
+    "longitude": 80.1686,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.335252"
+  },
+  {
+    "city": "Akola",
+    "latitude": 27.0655,
+    "longitude": 77.8808,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.337570"
+  },
+  {
+    "city": "Nao Kothi",
+    "latitude": 25.5196,
+    "longitude": 86.1954,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.380781"
+  },
+  {
+    "city": "Panamarattuppatti",
+    "latitude": 11.562,
+    "longitude": 78.1649,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.417562"
+  },
+  {
+    "city": "Begampur",
+    "latitude": 22.74,
+    "longitude": 88.24,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.424312"
+  },
+  {
+    "city": "Bhaw\u0101n\u012bpur",
+    "latitude": 26.2385,
+    "longitude": 86.0995,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.426630"
+  },
+  {
+    "city": "Perumbalam",
+    "latitude": 9.8462,
+    "longitude": 76.3591,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.415913"
+  },
+  {
+    "city": "Masar",
+    "latitude": 25.5577,
+    "longitude": 84.5767,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.446466"
+  },
+  {
+    "city": "Kondaparti",
+    "latitude": 17.9219,
+    "longitude": 79.5373,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.448267"
+  },
+  {
+    "city": "Hesarghatta",
+    "latitude": 13.1391,
+    "longitude": 77.4783,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.494957"
+  },
+  {
+    "city": "Malaudh",
+    "latitude": 30.6333,
+    "longitude": 75.9356,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.496685"
+  },
+  {
+    "city": "M\u0101midipalli",
+    "latitude": 17.2516,
+    "longitude": 78.4521,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.541894"
+  },
+  {
+    "city": "Bommayap\u0101laiyam",
+    "latitude": 11.9922,
+    "longitude": 79.8499,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.565164"
+  },
+  {
+    "city": "Kampel",
+    "latitude": 22.6167,
+    "longitude": 76.05,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.575000"
+  },
+  {
+    "city": "Mahadipur",
+    "latitude": 24.8566,
+    "longitude": 88.1248,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.586521"
+  },
+  {
+    "city": "Gund\u016br",
+    "latitude": 10.7339,
+    "longitude": 78.7184,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.588514"
+  },
+  {
+    "city": "Naw\u0101nagar",
+    "latitude": 25.3861,
+    "longitude": 84.2069,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.606070"
+  },
+  {
+    "city": "Pachrukhi",
+    "latitude": 26.1593,
+    "longitude": 84.4087,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.608171"
+  },
+  {
+    "city": "Mannivakkam",
+    "latitude": 12.8884,
+    "longitude": 80.0641,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.946393"
+  },
+  {
+    "city": "Pal\u0101sg\u0101chi",
+    "latitude": 24.9833,
+    "longitude": 87.9,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.946867"
+  },
+  {
+    "city": "Singhaul",
+    "latitude": 25.4375,
+    "longitude": 86.1,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.945836"
+  },
+  {
+    "city": "Ghari",
+    "latitude": 31.5901,
+    "longitude": 75.0526,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.949905"
+  },
+  {
+    "city": "Sapta",
+    "latitude": 26.3603,
+    "longitude": 86.0565,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.950498"
+  },
+  {
+    "city": "Haril\u0101dih",
+    "latitude": 23.7333,
+    "longitude": 86.4,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.950981"
+  },
+  {
+    "city": "Pahleza",
+    "latitude": 24.9378,
+    "longitude": 84.1467,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.952023"
+  },
+  {
+    "city": "Bhab\u0101t",
+    "latitude": 30.658,
+    "longitude": 76.8065,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.952524"
+  },
+  {
+    "city": "Pithauri\u0101",
+    "latitude": 23.518,
+    "longitude": 85.2918,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:08.951509"
+  },
+  {
+    "city": "Hilora",
+    "latitude": 24.5055,
+    "longitude": 87.9661,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:08.953265"
+  },
+  {
+    "city": "Meval\u016brkuppam",
+    "latitude": 13.032,
+    "longitude": 79.9995,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.132580"
+  },
+  {
+    "city": "P\u0101lavedu",
+    "latitude": 13.1547,
+    "longitude": 80.0694,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.130063"
+  },
+  {
+    "city": "K\u0101diganahalli",
+    "latitude": 13.1687,
+    "longitude": 77.6283,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.121716"
+  },
+  {
+    "city": "Ball\u0101lpur",
+    "latitude": 24.7386,
+    "longitude": 87.9083,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.127327"
+  },
+  {
+    "city": "Dhanas",
+    "latitude": 30.7688,
+    "longitude": 76.7541,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.131393"
+  },
+  {
+    "city": "J\u0101jigr\u0101m",
+    "latitude": 24.4724,
+    "longitude": 87.9589,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.133874"
+  },
+  {
+    "city": "Imamnagar",
+    "latitude": 24.745,
+    "longitude": 87.9247,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.119541"
+  },
+  {
+    "city": "Mogalcherla",
+    "latitude": 18.0093,
+    "longitude": 79.6613,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.136173"
+  },
+  {
+    "city": "Sohi\u0101n Kal\u0101n",
+    "latitude": 31.7444,
+    "longitude": 74.9163,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.135126"
+  },
+  {
+    "city": "Maritippa",
+    "latitude": 16.4094,
+    "longitude": 81.8033,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.120642"
+  },
+  {
+    "city": "V\u012brap\u0101ndi",
+    "latitude": 11.5757,
+    "longitude": 78.0729,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.301983"
+  },
+  {
+    "city": "Bhami\u0101n Kal\u0101n",
+    "latitude": 30.9191,
+    "longitude": 75.9423,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.301592"
+  },
+  {
+    "city": "Sahdai Buzurg",
+    "latitude": 25.6622,
+    "longitude": 85.4597,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.302776"
+  },
+  {
+    "city": "Valasaiy\u016br",
+    "latitude": 11.7044,
+    "longitude": 78.2513,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.302318"
+  },
+  {
+    "city": "Jogta",
+    "latitude": 25.4884,
+    "longitude": 84.7055,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.303114"
+  },
+  {
+    "city": "Shivni",
+    "latitude": 22.671,
+    "longitude": 76.1391,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.303492"
+  },
+  {
+    "city": "Dary\u0101pur Kal\u0101n",
+    "latitude": 28.7614,
+    "longitude": 76.9842,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.306384"
+  },
+  {
+    "city": "Sakhara",
+    "latitude": 24.9091,
+    "longitude": 84.1584,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.303890"
+  },
+  {
+    "city": "Hasanpur",
+    "latitude": 25.7079,
+    "longitude": 86.192,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.306824"
+  },
+  {
+    "city": "D\u012bgnagar",
+    "latitude": 23.3283,
+    "longitude": 88.4469,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.392650"
+  },
+  {
+    "city": "Gangauli",
+    "latitude": 24.9361,
+    "longitude": 84.1728,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.467623"
+  },
+  {
+    "city": "Dehlon",
+    "latitude": 30.7418,
+    "longitude": 75.8444,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.470311"
+  },
+  {
+    "city": "Giddha",
+    "latitude": 25.588,
+    "longitude": 84.7472,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.463462"
+  },
+  {
+    "city": "Valaiyankulam",
+    "latitude": 9.8082,
+    "longitude": 78.094,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.466291"
+  },
+  {
+    "city": "Muria",
+    "latitude": 26.2028,
+    "longitude": 86.0083,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.469809"
+  },
+  {
+    "city": "P\u012bpalda",
+    "latitude": 22.5973,
+    "longitude": 76.0415,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.465599"
+  },
+  {
+    "city": "Jandi\u0101li",
+    "latitude": 30.8671,
+    "longitude": 75.9938,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.466845"
+  },
+  {
+    "city": "Pakharpura",
+    "latitude": 31.7674,
+    "longitude": 75.0945,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.471844"
+  },
+  {
+    "city": "K\u016bttamb\u0101kkam",
+    "latitude": 13.0569,
+    "longitude": 80.0275,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.473032"
+  },
+  {
+    "city": "Kambarasampettai",
+    "latitude": 10.8496,
+    "longitude": 78.6754,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.607508"
+  },
+  {
+    "city": "Vad\u0101la Jauhal",
+    "latitude": 31.6131,
+    "longitude": 75.027,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.615536"
+  },
+  {
+    "city": "Sukkainpatti",
+    "latitude": 11.7156,
+    "longitude": 78.2626,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.620659"
+  },
+  {
+    "city": "Bayandhalli",
+    "latitude": 12.9779,
+    "longitude": 77.5688,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.626659"
+  },
+  {
+    "city": "Fatehpur R\u0101jputan",
+    "latitude": 31.6406,
+    "longitude": 75.0024,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.628351"
+  },
+  {
+    "city": "Bahlolpur",
+    "latitude": 30.759,
+    "longitude": 76.7034,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.631555"
+  },
+  {
+    "city": "B\u0101jra",
+    "latitude": 30.9542,
+    "longitude": 75.8771,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.629592"
+  },
+  {
+    "city": "Makhanwindi",
+    "latitude": 31.6716,
+    "longitude": 75.0074,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.630938"
+  },
+  {
+    "city": "Sondekoppa",
+    "latitude": 13.0,
+    "longitude": 77.3667,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.633103"
+  },
+  {
+    "city": "Manauli",
+    "latitude": 30.6444,
+    "longitude": 76.7217,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.636162"
+  },
+  {
+    "city": "Vell\u0101n\u016br",
+    "latitude": 13.15,
+    "longitude": 80.1,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.771777"
+  },
+  {
+    "city": "Babura",
+    "latitude": 25.0851,
+    "longitude": 87.1092,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.768518"
+  },
+  {
+    "city": "Kathu Nangal",
+    "latitude": 31.7262,
+    "longitude": 75.0358,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.199476"
+  },
+  {
+    "city": "M\u0101davar",
+    "latitude": 13.0525,
+    "longitude": 77.4732,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.784913"
+  },
+  {
+    "city": "Lola",
+    "latitude": 31.6317,
+    "longitude": 75.0756,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.786887"
+  },
+  {
+    "city": "Kadabgeri",
+    "latitude": 12.9965,
+    "longitude": 77.4331,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.788711"
+  },
+  {
+    "city": "Keshopur",
+    "latitude": 25.5148,
+    "longitude": 84.67,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.838167"
+  },
+  {
+    "city": "Basavanhalli",
+    "latitude": 13.1104,
+    "longitude": 77.3877,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.791382"
+  },
+  {
+    "city": "Putlampalle",
+    "latitude": 14.4522,
+    "longitude": 78.8511,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.841271"
+  },
+  {
+    "city": "Nanmangalam",
+    "latitude": 12.9381,
+    "longitude": 80.1753,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.840412"
+  },
+  {
+    "city": "Kahra",
+    "latitude": 25.8661,
+    "longitude": 86.5576,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.918142"
+  },
+  {
+    "city": "Tild\u0101nga",
+    "latitude": 24.7893,
+    "longitude": 87.8765,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.934616"
+  },
+  {
+    "city": "Ghawaddi",
+    "latitude": 30.7813,
+    "longitude": 75.8911,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.944491"
+  },
+  {
+    "city": "Kanej",
+    "latitude": 30.8303,
+    "longitude": 76.0096,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:09.946408"
+  },
+  {
+    "city": "Tog\u0101n",
+    "latitude": 30.7699,
+    "longitude": 76.7336,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.947999"
+  },
+  {
+    "city": "Jassow\u0101l",
+    "latitude": 30.8039,
+    "longitude": 75.8245,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:09.998654"
+  },
+  {
+    "city": "Ak\u0101lgarh",
+    "latitude": 31.6491,
+    "longitude": 75.0736,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.000398"
+  },
+  {
+    "city": "Gobardhanpur",
+    "latitude": 24.9493,
+    "longitude": 84.1603,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.005034"
+  },
+  {
+    "city": "Kair",
+    "latitude": 28.6158,
+    "longitude": 76.91,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.002576"
+  },
+  {
+    "city": "Pallippatti",
+    "latitude": 11.7011,
+    "longitude": 78.2428,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.067525"
+  },
+  {
+    "city": "Kumbalam",
+    "latitude": 8.992,
+    "longitude": 76.6621,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.099164"
+  },
+  {
+    "city": "Sonnappanhalli",
+    "latitude": 13.1557,
+    "longitude": 77.6179,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.103389"
+  },
+  {
+    "city": "Chanditala",
+    "latitude": 22.6909,
+    "longitude": 88.2662,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.104949"
+  },
+  {
+    "city": "Agaram",
+    "latitude": 13.0397,
+    "longitude": 80.0808,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.106311"
+  },
+  {
+    "city": "P\u0101tap\u0101du",
+    "latitude": 16.5781,
+    "longitude": 80.6652,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.162675"
+  },
+  {
+    "city": "Naw\u0101n Pind",
+    "latitude": 31.5397,
+    "longitude": 74.9937,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.160887"
+  },
+  {
+    "city": "Pallappatti",
+    "latitude": 11.6604,
+    "longitude": 78.1369,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.163955"
+  },
+  {
+    "city": "Doddaj\u012bvanhalli",
+    "latitude": 13.0086,
+    "longitude": 77.6143,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.166149"
+  },
+  {
+    "city": "Koh\u0101ra",
+    "latitude": 30.8674,
+    "longitude": 76.0058,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.215731"
+  },
+  {
+    "city": "Kolapakkam",
+    "latitude": 12.9142,
+    "longitude": 80.2294,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.262578"
+  },
+  {
+    "city": "Permi",
+    "latitude": 22.6204,
+    "longitude": 76.1126,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.264319"
+  },
+  {
+    "city": "Niz\u0101mpur",
+    "latitude": 31.6538,
+    "longitude": 74.9928,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.267150"
+  },
+  {
+    "city": "K\u016bllampatti",
+    "latitude": 11.6922,
+    "longitude": 78.26,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.267704"
+  },
+  {
+    "city": "Devi D\u0101sp\u016br",
+    "latitude": 31.5921,
+    "longitude": 75.033,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.322284"
+  },
+  {
+    "city": "Di\u0101lpura",
+    "latitude": 30.6395,
+    "longitude": 76.7867,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.326594"
+  },
+  {
+    "city": "Kasi\u0101m",
+    "latitude": 26.1862,
+    "longitude": 86.311,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.328390"
+  },
+  {
+    "city": "Mundi\u0101n Khurd",
+    "latitude": 30.894,
+    "longitude": 75.9427,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.329946"
+  },
+  {
+    "city": "Takkolu",
+    "latitude": 14.4855,
+    "longitude": 78.8797,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.357151"
+  },
+  {
+    "city": "Bhainsaha",
+    "latitude": 24.8951,
+    "longitude": 84.1557,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.374263"
+  },
+  {
+    "city": "Govindgarh",
+    "latitude": 30.8622,
+    "longitude": 75.9482,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.571119"
+  },
+  {
+    "city": "Deuriya",
+    "latitude": 24.953,
+    "longitude": 84.1401,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.743511"
+  },
+  {
+    "city": "Solankuruni",
+    "latitude": 9.8067,
+    "longitude": 78.1198,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.521556"
+  },
+  {
+    "city": "Talwandi Dasondha Singh",
+    "latitude": 31.6827,
+    "longitude": 75.0346,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.807486"
+  },
+  {
+    "city": "R\u0101mgarh",
+    "latitude": 30.8739,
+    "longitude": 75.9742,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.611840"
+  },
+  {
+    "city": "Berkap",
+    "latitude": 24.9444,
+    "longitude": 84.2143,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.610340"
+  },
+  {
+    "city": "Wattin\u0101gulapalli",
+    "latitude": 17.4179,
+    "longitude": 78.293,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.891318"
+  },
+  {
+    "city": "Huttanhalli",
+    "latitude": 13.1651,
+    "longitude": 77.6512,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.889787"
+  },
+  {
+    "city": "Suara",
+    "latitude": 25.0361,
+    "longitude": 84.262,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.618673"
+  },
+  {
+    "city": "Shankar",
+    "latitude": 30.7667,
+    "longitude": 75.8833,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.905847"
+  },
+  {
+    "city": "Dah\u0101ur",
+    "latitude": 24.9146,
+    "longitude": 84.136,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:10.937020"
+  },
+  {
+    "city": "Abd\u0101l",
+    "latitude": 31.7428,
+    "longitude": 75.0792,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.901500"
+  },
+  {
+    "city": "Kat\u0101r",
+    "latitude": 24.8818,
+    "longitude": 84.1511,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.935176"
+  },
+  {
+    "city": "Bhutta",
+    "latitude": 30.7644,
+    "longitude": 75.9109,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.938413"
+  },
+  {
+    "city": "Sotur",
+    "latitude": 34.0403,
+    "longitude": 75.0738,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.943456"
+  },
+  {
+    "city": "Sasr\u0101li",
+    "latitude": 30.981,
+    "longitude": 75.9432,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.912466"
+  },
+  {
+    "city": "Sora",
+    "latitude": 34.1336,
+    "longitude": 74.8017,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:10.967075"
+  },
+  {
+    "city": "C\u0101chohalli",
+    "latitude": 13.001,
+    "longitude": 77.4717,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.103871"
+  },
+  {
+    "city": "Mangat",
+    "latitude": 30.98,
+    "longitude": 75.9144,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.105868"
+  },
+  {
+    "city": "Bhangu\u0101n",
+    "latitude": 31.5947,
+    "longitude": 75.0629,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.108791"
+  },
+  {
+    "city": "Kasgatpur",
+    "latitude": 13.1101,
+    "longitude": 77.5045,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.055742"
+  },
+  {
+    "city": "R\u0101nipur",
+    "latitude": 24.7442,
+    "longitude": 87.8686,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.072037"
+  },
+  {
+    "city": "Bhagw\u0101npur",
+    "latitude": 25.8601,
+    "longitude": 85.2997,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.094251"
+  },
+  {
+    "city": "Kot Gang\u016bra",
+    "latitude": 30.8625,
+    "longitude": 76.0919,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.096259"
+  },
+  {
+    "city": "G\u0101gil\u0101pur",
+    "latitude": 17.6,
+    "longitude": 78.4,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.099798"
+  },
+  {
+    "city": "Kitanelli",
+    "latitude": 13.0095,
+    "longitude": 77.4191,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.098024"
+  },
+  {
+    "city": "Tendua Dus\u0101dhi",
+    "latitude": 24.9427,
+    "longitude": 84.1299,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.126620"
+  },
+  {
+    "city": "Dhurali",
+    "latitude": 30.6432,
+    "longitude": 76.7032,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.205993"
+  },
+  {
+    "city": "Chinnan\u016br",
+    "latitude": 11.6875,
+    "longitude": 78.2262,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.232619"
+  },
+  {
+    "city": "Bendrav\u0101di",
+    "latitude": 12.3636,
+    "longitude": 76.9137,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.257358"
+  },
+  {
+    "city": "Umedpur",
+    "latitude": 30.8122,
+    "longitude": 75.9626,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.259235"
+  },
+  {
+    "city": "Bhain\u012b\u0101la",
+    "latitude": 30.8727,
+    "longitude": 76.069,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.250991"
+  },
+  {
+    "city": "Chogaw\u0101n",
+    "latitude": 31.6667,
+    "longitude": 75.1,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.262248"
+  },
+  {
+    "city": "Nedumadurai",
+    "latitude": 9.7959,
+    "longitude": 78.0867,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.266147"
+  },
+  {
+    "city": "Kodagihalli",
+    "latitude": 12.9771,
+    "longitude": 77.4651,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.268082"
+  },
+  {
+    "city": "Qila J\u012bwan Singh",
+    "latitude": 31.6182,
+    "longitude": 74.974,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.270258"
+  },
+  {
+    "city": "Mota Mazra",
+    "latitude": 30.6214,
+    "longitude": 76.725,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.287958"
+  },
+  {
+    "city": "Mailanhalli",
+    "latitude": 13.1863,
+    "longitude": 77.6963,
+    "data": {
+      "latitude": 13.181019,
+      "longitude": 77.69371,
+      "generationtime_ms": 510.4566812515259,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 895.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "wind_speed_10m": "km/h",
+        "relative_humidity_2m": "%",
+        "visibility": "m",
+        "weather_code": "wmo code"
+      },
+      "current": {
+        "time": "2026-06-15T04:00",
+        "interval": 900,
+        "temperature_2m": 26.4,
+        "wind_speed_10m": 20.1,
+        "relative_humidity_2m": 63,
+        "visibility": 37500.0,
+        "weather_code": 1
+      }
+    },
+    "extraction_time": "09:30:13.848095"
+  },
+  {
+    "city": "Jotsema",
+    "latitude": 25.6736,
+    "longitude": 94.0625,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.392573"
+  },
+  {
+    "city": "Paddi",
+    "latitude": 30.7931,
+    "longitude": 75.9352,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.404603"
+  },
+  {
+    "city": "Kh\u0101n\u0101pur",
+    "latitude": 17.4007,
+    "longitude": 78.3008,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.420050"
+  },
+  {
+    "city": "Mangli T\u0101nda",
+    "latitude": 30.9804,
+    "longitude": 75.9671,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.417823"
+  },
+  {
+    "city": "L\u0101ndr\u0101n",
+    "latitude": 30.6946,
+    "longitude": 76.6651,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.422232"
+  },
+  {
+    "city": "Talwandi Dogr\u0101n",
+    "latitude": 31.6091,
+    "longitude": 74.9988,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.430516"
+  },
+  {
+    "city": "Bhol\u0101pur",
+    "latitude": 30.8898,
+    "longitude": 75.9469,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.429666"
+  },
+  {
+    "city": "Ghonghaha",
+    "latitude": 24.9011,
+    "longitude": 84.1404,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.433426"
+  },
+  {
+    "city": "Gadli",
+    "latitude": 31.6051,
+    "longitude": 75.0722,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.447431"
+  },
+  {
+    "city": "Kaler M\u0101ngat",
+    "latitude": 31.7306,
+    "longitude": 74.9911,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.515568"
+  },
+  {
+    "city": "Lapr\u0101n",
+    "latitude": 30.7548,
+    "longitude": 75.9322,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.557113"
+  },
+  {
+    "city": "R\u0101jankunti",
+    "latitude": 13.1721,
+    "longitude": 77.5637,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.559307"
+  },
+  {
+    "city": "Hurka",
+    "latitude": 24.928,
+    "longitude": 84.2086,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.576851"
+  },
+  {
+    "city": "Dhenup\u0101li",
+    "latitude": 21.448,
+    "longitude": 83.991,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.580333"
+  },
+  {
+    "city": "Pethk\u016bt",
+    "latitude": 33.9791,
+    "longitude": 74.609,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.581935"
+  },
+  {
+    "city": "Bilg\u0101h",
+    "latitude": 30.8119,
+    "longitude": 75.9868,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.592080"
+  },
+  {
+    "city": "K\u016brri",
+    "latitude": 30.6044,
+    "longitude": 76.743,
+    "data": {
+      "reason": "Too many concurrent requests",
+      "error": true
+    },
+    "extraction_time": "09:30:11.594044"
+  },
+  {
+    "city": "Dispur",
+    "latitude": 26.15,
+    "longitude": 91.77,
+    "data": {
+      "error": true,
+      "reason": "Too many concurrent requests"
+    },
+    "extraction_time": "09:30:11.595623"
+  }
+]
