@@ -1,10 +1,8 @@
 import sys
 import os
-root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-sys.path.insert(0,root)
+sys.path.insert(0,"/opt/airflow")
 import asyncio
 from airflow.sdk import dag,task
-from airflow.providers.standard.operators.python import PythonOperator
 from src.extract import extract_data
 from src.transform import transform_data
 from src.load import load_data

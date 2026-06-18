@@ -10,7 +10,7 @@ def data_cleaning(df):
                           "current.visibility":"Visibility"})
     clean_df["Weather_Conditions"] = clean_df["current.weather_code"].map(WEATHER_MAPPING).fillna("Unknown")
     clean_df["Date"] = pd.to_datetime(df["extraction_time"]).dt.strftime("%Y-%m-%d")
-    clean_df["Time"] = pd.to_datetime(df["extraction_time"]).dt.strftime("%H:%M")
+    clean_df["Time"] = pd.to_datetime(df["extraction_time"]).dt.strftime("%H-%M")
     clean_df.drop(columns=["extraction_time","current.weather_code"],inplace=True)
     clean_df["Visibility"] = clean_df["Visibility"]/1000
     clean_df = clean_df.drop_duplicates()

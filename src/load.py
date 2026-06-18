@@ -4,11 +4,12 @@ import logging
 import os
 from dotenv import load_dotenv
 load_dotenv()
-username = os.getenv("DB_USER")
-password = os.getenv("DB_PASSWORD")
+username = os.getenv("POSTGRES_USER")
+password = os.getenv("POSTGRES_PASSWORD")
 host = os.getenv("DB_HOST")
 port = os.getenv("DB_PORT")
-url = f"postgresql+psycopg://{username}:{password}@{host}:{port}/weather_db"
+db = os.getenv("POSTGRES_DB")
+url = f"postgresql+psycopg://{username}:{password}@{host}:{port}/{db}"
 logging.basicConfig(filename="logs/load_log.log",level=logging.INFO,format="%(asctime)s,%(levelname)s,%(message)s")
 def load_data():
     try:
